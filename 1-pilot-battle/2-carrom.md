@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/2)
 
-![result](./images/2-carom.png)
+![result](./images/2-carrom.png)
 
 ```html
 <div class="container">
