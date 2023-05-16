@@ -4,7 +4,7 @@
 kumpulan solusi cssbattle yang sudah saya kerjakan, mungkin bukan solusi terbaik.
 
 ## SKOR
-jika ingin mendapat skor yang sangat sempurna anda dapat mengganti class dengan karakter yang singkat atau anda dapat me minify code html anda di [sini](https://codebeautify.org/minify-html), tujuan saya membuat class yang panjang dan jelas agar mudah dibaca dan dimengerti.
+jika ingin mendapat skor yang sangat sempurna anda dapat mengganti class dengan karakter yang singkat atau anda dapat me minify code html anda [disini](https://codebeautify.org/minify-html), tujuan saya membuat class yang panjang dan jelas agar mudah dibaca dan dimengerti.
 
 ## Battle #1 - Pilot Battle
 
